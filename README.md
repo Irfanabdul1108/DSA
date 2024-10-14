@@ -10,6 +10,24 @@ This repository is dedicated to my preparation for Data Structures and Algorithm
 - Solve a variety of problems to enhance coding skills.
 - Prepare for technical interviews and competitive programming.
 
+
+# 🎯 DSA Preparation
+
+## Overview
+
+This repository serves as a guide to my Data Structures and Algorithms preparation. Below are the different concepts I am studying, each in its own repository.
+
+## Concepts
+
+- [Arrays](https://github.com/yourusername/DSA-Arrays)
+- [Strings](https://github.com/yourusername/DSA-Strings)
+- [Linked Lists](https://github.com/yourusername/DSA-LinkedLists)
+- [Stacks and Queues](https://github.com/yourusername/DSA-inkedLists)
+- [Recursion](https://github.com/yourusername/DSA-LinkedLists)
+- [Binary Search](https://github.com/yourusername/DSA-SortingAndSearching)
+- [Two Pointers](https://github.com/yourusername/DSA-TwoPointers)
+- [Bit Manipulation](https://github.com/yourusername/DSA-BitManipulation)
+
 ## 🗂️ Study Plan
 
 ### 1. **Arrays**
@@ -69,7 +87,7 @@ This repository is dedicated to my preparation for Data Structures and Algorithm
 
 ![Progress](https://img.shields.io/badge/Overall%20Progress-0%25-brightgreen)
 
-### Circular Progress Representation
+### Progress Representation
 
 - ![Arrays](https://img.shields.io/badge/Arrays-60%25-orange)
 - ![Strings](https://img.shields.io/badge/Strings-60%25-orange)
